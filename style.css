@@ -1,0 +1,9 @@
+body { background: #111827; color: white; font-family: Arial, sans-serif;
+       text-align: center; padding: 40px; }
+h1, h2, p { margin: 40px 0; font-size: 36px; }
+.klasyczny {text-shadow: 4px 4px 2px #777777;}
+.neon {text-shadow: 0 0 12px cyan;}
+.wielowarstwowy {text-shadow: 0 0 6px blue, 0 0 16px pink, 0 0 10px red, 0 0 10px aqua;}
+.tytul-neon {text-transform: uppercase; letter-spacing: 2px;}
+.neonowe-sign {text-shadow: -5px 0 6px purple, 0 0 10px yellow; font-size: 50px;}
+.cien {text-shadow: 10px 5px 10px plum; font-size: 100px; text-transform: capitalize;}
